@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Welcome to NR1web
 
-<!--
-**nr1web/nr1web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Own Your Blue Ocean Brand**  
+Start with a One-of-a-Kind Domain.
 
-Here are some ideas to get you started:
+We help entrepreneurs and brands stand out with distinctive, ownable, and strategic domain names.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 [Visit nr1web.com](https://nr1web.com)  
+📩 info@daylight.be
+
+---
+🚀 Follow us:  
+[LinkedIn](https://www.linkedin.com/company/nr1web) | [Instagram](https://www.instagram.com/nr1web) | [YouTube](https://www.youtube.com/@nr1webcom) | [Pinterest](https://www.pinterest.com/nr1web) | [X](https://twitter.com/nr1webcom)
